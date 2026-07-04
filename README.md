@@ -25,5 +25,8 @@ This is a simple rule-based chatbot developed in Python as part of the CodeAlpha
 4. Start chatting with the bot.
 5. Type "bye" to exit.
 
+## Project Screenshot
+![Chatbot Output](screenshots/chatbot_output.png)
+
 ## Author
 Anam Mirza
